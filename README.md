@@ -1,0 +1,1 @@
+I had to recreate my account because I encountered several issues with the previous one, which prevented me from accessing certain features and caused other technical difficulties that couldn’t be resolved.
