@@ -25,9 +25,12 @@ int main()
     scanf("%f %f", &a, &b);
 
     switch(op) {
-        case '+': printf("%.2f", a + b); break;
-        case '-': printf("%.2f", a - b); break;
-        case '*': printf("%.2f", a * b); break;
+        case '+': 
+            printf("%.2f", a + b); break;
+        case '-': 
+            printf("%.2f", a - b); break;
+        case '*': 
+            printf("%.2f", a * b); break;
         case '/':
             if (b != 0)
                 printf("%.2f", a / b);
@@ -44,4 +47,5 @@ int main()
     }
 
     return 0;
+
 }
