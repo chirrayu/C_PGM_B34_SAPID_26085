@@ -25,7 +25,7 @@ int main()
         case 1: 
             printf("January - 31 days"); break;
         case 2:
-            printf("February - 28/29 days"); break;
+            printf("February - 28/29 (for leap year only) days"); break;
         case 3:
             printf("March - 31 days"); break;
         case 4:
@@ -53,3 +53,4 @@ int main()
     return 0;
 
 }
+
